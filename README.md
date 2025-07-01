@@ -1,1 +1,1 @@
-# Artificial-Intelligence-Mastery
+# Credit Risk Probability Model
